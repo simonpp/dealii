@@ -23,6 +23,7 @@
 #include <boost/serialization/array.hpp>
 #include <boost/serialization/split_member.hpp>
 
+#include <algorithm>
 #include <vector>
 #include <iostream>
 
